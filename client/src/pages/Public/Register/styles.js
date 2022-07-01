@@ -20,6 +20,7 @@ export default theme => ({
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
+    backgroundImage: 'url(/login.png)',
     opacity: 0.5
   },
 

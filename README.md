@@ -35,7 +35,7 @@ You can also:
   - Export QR Code pass as PDF
 
 ### Tech
-Olyad-Cinemauses a number of open source projects to work properly:
+Olyad-Cinema uses a number of open source projects to work properly:
 * [MongoDB](https://www.mongodb.com/) - A document-oriented, No-SQL database used to store the application data.
 * [ExpressJS](https://expressjs.com/) - fast node.js network app framework.
 * [ReactJS](https://reactjs.org/) - A JavaScript library for building user interfaces.
